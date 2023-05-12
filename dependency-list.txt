@@ -1,0 +1,17 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< clinic.programmming:example >---------------------
+[INFO] Building example 1.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:2.8:tree (default-cli) @ example ---
+[WARNING] Parameter 'localRepository' is deprecated core expression; Avoid use of ArtifactRepository type. If you need access to local repository, switch to '${repositorySystemSession}' expression and get LRM from it instead.
+[INFO] clinic.programmming:example:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.12.0:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.976 s
+[INFO] Finished at: 2023-05-12T12:37:11+02:00
+[INFO] ------------------------------------------------------------------------
